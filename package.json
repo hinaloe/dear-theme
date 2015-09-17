@@ -1,0 +1,28 @@
+{
+  "name": "Dear",
+  "version": "1.0.0",
+  "description": "The WordPress theme child of Lightning.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:hinaloe/dear-theme"
+  },
+  "author": "hinaloe",
+  "license": "GPL-2.0+",
+  "bugs": {
+    "url": "https://github.com/hinaloe/dear-theme/issues"
+  },
+  "homepage": "https://github.com/hinaloe/dear-theme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.0.1",
+    "gulp-load-plugins": "^0.10.0",
+    "gulp-sass": "^2.0.4",
+    "gulp-sort": "^1.1.1",
+    "gulp-wp-pot": "^1.0.4",
+    "gulp-zip": "^3.0.2"
+  }
+}

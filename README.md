@@ -1,0 +1,2 @@
+# Dear WordPress Theme
+![]()

@@ -1,0 +1,22 @@
+@charset "UTF-8";
+.page-header.cover {
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center;
+  -webkit-box-shadow: inset 0 0 220px rgba(0, 0, 0, .7);
+  -moz-box-shadow: inset 0 0 220px rgba(0, 0, 0, .7);
+  box-shadow: inset 0 0 220px rgba(0, 0, 0, .7);
+
+  position: relative;
+  height: 50vw;
+  max-height: 70vh;
+
+  .container {
+    text-shadow: 0 1px 3px rgba(0, 0, 0, .5);
+  }
+
+  .row {
+    position: absolute;
+    bottom: 0;
+  }
+}

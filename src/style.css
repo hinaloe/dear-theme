@@ -1,0 +1,27 @@
+/*
+Theme Name:     Dear
+Theme URI:      https://dear.hinaloe.net/
+Description:    Lightning child theme.
+Author:         hinaloe
+Author URI:     https://hinaloe.net/
+Template:       lightning
+Version:        0.1.0
+Text Domain:    dear
+*/
+.page-header.cover {
+  background-size: cover;
+  background-position: center;
+  box-shadow: inset 0 0 220px rgba(0, 0, 0, 0.7);
+  position: relative;
+  height: 50vw;
+  max-height: 70vh;
+}
+
+.page-header.cover .container {
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+.page-header.cover .row {
+  position: absolute;
+  bottom: 0;
+}

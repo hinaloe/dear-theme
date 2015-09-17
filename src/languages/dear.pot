@@ -1,0 +1,39 @@
+# Copyright (C) 2015 dear
+# This file is distributed under the same license as the dear package.
+msgid ""
+msgstr ""
+"Project-Id-Version: dear\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n\n"
+
+#: dev\meta_translations.php:14
+msgid "Dear"
+msgstr ""
+
+#: dev\meta_translations.php:20
+msgid "Lightning child theme."
+msgstr ""
+
+#: dev\meta_translations.php:25
+msgid "https://dear.hinaloe.net/"
+msgstr ""
+
+#: dev\meta_translations.php:30
+msgid "https://hinaloe.net/"
+msgstr ""
+
+#: src\functions.php:12
+msgid "Powered by <a href="https://wordpress.org/">WordPress</a> with <a href="https://dear.hinaloe.net/" target="_blank" title="Free WordPress Theme Dear">Dear Theme</a> &amp; <a href="http://ex-unit.bizvektor.com/" target="_blank">VK All in One Expansion Unit</a> by <a href="http://www.vektor-inc.co.jp" target="_blank">Vektor,Inc.</a> technology."
+msgstr ""
+
+#: src\functions.php:14
+msgid "Powered by <a href="https://wordpress.org/">WordPress</a> &amp; <a href="https://dear.hinaloe.net/" target="_blank" title="Free WordPress Theme Dear">Dear Theme</a>."
+msgstr ""
